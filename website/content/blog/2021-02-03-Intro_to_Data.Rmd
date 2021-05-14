@@ -1,0 +1,19 @@
+---
+title: "Intro to Data Meetup"
+author: "Jason Bryer"
+date: 2021-02-03
+draft: false
+categories: ["R", "Meetups", "Announcements"]
+tags: ["Annoucement"]
+#summary: Recording and slides from the class meetup.
+---
+
+Here is a recording of the Intro to Data Meetup. [Click here](/slides/01-Intro_to_Data.html#1) to open the slides.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ly6ydcOgSTw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!--more-->
+
+Here is a recording of the Intro to Data Meetup. [Click here](/slides/01-Intro_to_Data.html#1) to open the slides.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ly6ydcOgSTw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
